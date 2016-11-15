@@ -1,0 +1,31 @@
+Last login: Tue Nov 15 07:34:59 on ttys002
+will ~
+$ mv ~/code/homework/kitchen/fridge/trashcan/sink/ ~/code/homework/kitchen/sink/'/Users/will/code/homework/kitchen/fridge/trashcan/sink/' -> '/Users/will/code/homework/kitchen/sink/'
+will ~
+$ mkdir ~/code/homework/kitchen/sink/drying-rack/
+gmkdir: created directory '/Users/will/code/homework/kitchen/sink/drying-rack/'
+will ~
+$ mv ~/code/homework/kitchen/sink/clean-dishes.txt ~/code/homework/kitchen/sink/drying-rack/
+'/Users/will/code/homework/kitchen/sink/clean-dishes.txt' -> '/Users/will/code/homework/kitchen/sink/drying-rack/clean-dishes.txt'
+will ~
+$ rm ~/code/homework/kitchen/sink/delete-me.txt
+removed '/Users/will/code/homework/kitchen/sink/delete-me.txt'
+will ~
+$ mv ~/code/homework/kitchen/fridge/trashcan/ ~/code/homework/kitchen/trashcan/
+'/Users/will/code/homework/kitchen/fridge/trashcan/' -> '/Users/will/code/homework/kitchen/trashcan/'
+will ~
+$ rm ~/code/homework/kitchen/fridge/diapers.txt
+removed '/Users/will/code/homework/kitchen/fridge/diapers.txt'
+will ~
+$ mv ~/code/homework/kitchen/pantry/crisper-drawer/ ~/code/homework/kitchen/fridge/
+'/Users/will/code/homework/kitchen/pantry/crisper-drawer/' -> '/Users/will/code/homework/kitchen/fridge/crisper-drawer'
+will ~
+$ rm ~/code/homework/kitchen/fridge/freezer/couch.txt
+removed '/Users/will/code/homework/kitchen/fridge/freezer/couch.txt'
+will ~
+$ mv ~/code/homework/kitchen/cans.txt ~/code/homework/kitchen/fridge/crisper-drawer/apples.txt
+'/Users/will/code/homework/kitchen/cans.txt' -> '/Users/will/code/homework/kitchen/fridge/crisper-drawer/apples.txt'
+will ~
+$ 
+
+
